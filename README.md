@@ -3,7 +3,7 @@
 I'm currently getting my Master's in Electrical and Computer Engineering at Brigham Young University. I love open source software, Python, and [laboratory work](https://camacholab.byu.edu/).
 
 - 🔭 I’m currently working on PyroLab
-- 🌱 I’m currently (always) learning Python
+- 🌱 I’m currently (always) advancing my Python abilities
 - 💬 Ask me about [Simphony](https://simphonyphotonics.readthedocs.io/en/stable/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sequoia-ploeg/)
 

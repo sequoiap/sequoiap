@@ -1,6 +1,6 @@
 ### Hi, I'm Sequoia 👋
 
-I'm currently getting my PhD in Electrical and Computer Engineering at Brigham Young University. I love open source software, Python, and [laboratory work](https://camacholab.byu.edu/).
+Photonics engineer. I love open source software, particularly for Python.
 
 - 🔭 I’m currently working on PyroLab
 - 🌱 Big fan of Python, Linux, and open source
